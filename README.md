@@ -4,7 +4,7 @@
   </a>
 </p-->
 
-### Olá! 👋 Eu sou [Silas Oliveira],
+### Olá! 👋 Eu sou Silas Oliveira,
 
 <!--p align="center">
   ### Minhas Contribuições e Estatísticas
