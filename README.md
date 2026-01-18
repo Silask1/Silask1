@@ -6,13 +6,13 @@
 
 ### Olá! 👋 Eu sou Silas Oliveira,
 
-<p align="center">
+<!--p align="center">
   ### Minhas Contribuições e Estatísticas
   <img src="https://github-readme-stats.vercel.app/api?username=silask1&show_icons=true&theme=dark" alt="Estatísticas do Perfil" />
-</p>
-<p align="center">
+</p-->
+<!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silask1&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
+</p-->
 
 ---
 
